@@ -6,7 +6,7 @@ C language, since the functionality is exposed as PHP classes ready for you to
 use. Phalcon also is loosely coupled, allowing you to use its objects as glue
 components based on the needs of your application.
 
-[Official homepage](https://phalconphp.com)
+[Phalcon official homepage](https://phalconphp.com)
 
 # How to use this image
 
