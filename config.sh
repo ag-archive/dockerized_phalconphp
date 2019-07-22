@@ -1,2 +1,2 @@
-BUILD_PKGS="php5-dev gcc libpcre3-dev git"
-RUNTIME_PKGS="php5-fpm"
+BUILD_PKGS="php-dev libpcre3-dev re2c git"
+RUNTIME_PKGS="php-fpm"
